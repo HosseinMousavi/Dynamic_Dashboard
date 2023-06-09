@@ -8,7 +8,7 @@ This repository contains a Shiny application built in R that allows users to vis
 - **Downloadable Plots**: The application allows users to download the generated plots for offline use or further analysis.
 
 ## Installation
-Clone this repository to your local machine using https://github.com/HosseinMousavi/Dynamic_Dashboard-draft-.git
+Clone this repository to your local machine using https://github.com/HosseinMousavi/Dynamic_Dashboard.git
 Open the R project and install the required dependencies.
 
 ## Dependencies
