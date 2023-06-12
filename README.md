@@ -37,3 +37,6 @@ Replace 'path/to/your/app' with the path to the directory containing the applica
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+
+<img width="1456" alt="Screenshot 2023-06-12 at 12 36 10 PM" src="https://github.com/HosseinMousavi/Dynamic_Dashboard/assets/61721826/295a60dd-b4c5-4065-bf3d-096789096d72">
