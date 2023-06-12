@@ -1,4 +1,4 @@
-#### Hyperlikn to play with the Dynamic Dashboard: [Live Demo of the Dynamic Dashboard](https://hosseinmousavi.shinyapps.io/dashboard/)
+#### link to play with the Dynamic Dashboard: [Live Demo of the Dynamic Dashboard](https://hosseinmousavi.shinyapps.io/dashboard/)
 
 # Dynamic Dashboard for Gene Expression Data
 
