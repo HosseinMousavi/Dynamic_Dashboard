@@ -1,3 +1,6 @@
+
+#### Link to play with the Dynamic Dashboard: [Live Demo of the Dynamic Dashboard](https://hosseinmousavi.shinyapps.io/dashboard/)
+
 <img width="1456" alt="Screenshot 2023-06-12 at 12 36 10 PM" src="https://github.com/HosseinMousavi/Dynamic_Dashboard/assets/61721826/295a60dd-b4c5-4065-bf3d-096789096d72">
 
 #### Link to play with the Dynamic Dashboard: [Live Demo of the Dynamic Dashboard](https://hosseinmousavi.shinyapps.io/dashboard/)
